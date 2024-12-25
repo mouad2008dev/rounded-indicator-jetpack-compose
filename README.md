@@ -4,7 +4,8 @@
 
 A customizable progress indicator built using **Jetpack Compose** with smooth animations and a sleek design.
 ```
-![New Gif](https://github.com/user-attachments/assets/04f4060c-0430-40d1-b656-c00f40d4ce12)
+![Record_2024_12_25_20_26_42_270](https://github.com/user-attachments/assets/b706d0de-1904-463c-8299-6b5338210d76)
+
 
 
 ```
