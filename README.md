@@ -3,11 +3,11 @@
 # Custom Progress Indicator 🎨
 
 A customizable progress indicator built using **Jetpack Compose** with smooth animations and a sleek design.
-
+```
 ![New Gif](https://github.com/user-attachments/assets/04f4060c-0430-40d1-b656-c00f40d4ce12)
 
 
-
+```
 ## Features ✨
 - **Customizable size, colors, and text**: Adjust the component to fit your design.
 - **Smooth animations**: Seamless transitions for indicator progress and color changes.
@@ -16,9 +16,9 @@ A customizable progress indicator built using **Jetpack Compose** with smooth an
 
 ## Preview 📸
 A visual demonstration of the custom progress indicator:
-
+```
 ![Screenshot 2024-12-25 203207](https://github.com/user-attachments/assets/224b576f-976d-4629-8c26-2721e09305e0)
-
+```
 ```kotlin
 CustomComponent(
     canvasSize = 300.dp,
